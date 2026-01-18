@@ -52,4 +52,4 @@ All data is saved to `pomodoro_stats.json`.
 
 ## Author
 
-Created by Sophia (bbayalagmaa) for AI Class Assignment
+Created by Sofia (bbayalagmaa) for AI Class Assignment

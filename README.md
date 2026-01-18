@@ -18,7 +18,7 @@ A Python-based Pomodoro timer for tracking study sessions across different categ
    python3 pomodoro.py
    ```
 
-2. Choose a category (1-4) to start studying
+2. Choose a category (1-3) to start studying
 
 3. Press Enter when ready to begin the 25-minute focus session
 
@@ -26,13 +26,15 @@ A Python-based Pomodoro timer for tracking study sessions across different categ
 
 5. After break, choose your next category or end the session
 
-6. View your statistics anytime with option 5
+6. View your statistics anytime with option S
 
 ## Controls
 
-- **1-4**: Select study category
-- **5**: View statistics
-- **6**: Exit
+- **1-3**: Select study category
+- **S**: View Statistics
+- **M**: Manage Categories (Add/Edit/Delete)
+- **R**: Reset Statistics
+- **Q**: Exit
 - **0**: End study session (after break)
 - **Ctrl+C**: Stop timer early
 

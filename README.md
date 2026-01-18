@@ -4,7 +4,7 @@ A Python-based Pomodoro timer for tracking study sessions across different categ
 
 ## Features
 
-- **4 Study Categories**: English Learning, Chinese Learning, University Study, Online Business
+- **3 Study Categories**: English Learning, Chinese Learning, Vibe Coding
 - **25-minute focus sessions** with 5-minute breaks
 - **Live countdown timer** in terminal
 - **Switch categories** after each break

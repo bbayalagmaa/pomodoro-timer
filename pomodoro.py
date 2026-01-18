@@ -18,8 +18,7 @@ STATS_FILE = "pomodoro_stats.json"
 DEFAULT_CATEGORIES = [
     "English Learning",
     "Chinese Learning",
-    "University Study",
-    "Online Business"
+    "Vibe Coding"
 ]
 
 def clear_screen():
